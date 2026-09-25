@@ -17,4 +17,4 @@ If you use this code or build upon these calculations, please cite the accompany
 Boboc, A.-F. (2026). In Brightest Day, In Micro-Watts: A Feasibility Framework for Wearable Multimodal Acoustic-Optical Force Fields Driven by Neural Intent. Zenodo. DOI: 10.5281/zenodo.22967846
 
 
-[![DOI](https://zenodo.org/badge/1320278133.svg)](https://doi.org/10.5281/zenodo.22967846)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22967847.svg)](https://doi.org/10.5281/zenodo.22967847)
