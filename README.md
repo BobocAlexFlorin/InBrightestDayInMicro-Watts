@@ -14,7 +14,7 @@ Rather than relying on petawatt optical lasers or relativistic matter synthesis 
 
 If you use this code or build upon these calculations, please cite the accompanying paper:
 
-Boboc, A.-F. (2026). In Brightest Day, In Micro-Watts: A Feasibility Framework for Wearable Multimodal Acoustic-Optical Force Fields Driven by Neural Intent. Zenodo. DOI: 10.5281/zenodo.22967846
+Boboc, A.-F. (2026). In Brightest Day, In Micro-Watts: A Feasibility Framework for Wearable Multimodal Acoustic-Optical Force Fields Driven by Neural Intent. Zenodo. DOI: 10.5281/zenodo.22967847
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22967847.svg)](https://doi.org/10.5281/zenodo.22967847)
